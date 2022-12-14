@@ -1,5 +1,7 @@
 # chap9exer
 
+PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
+
 Read Chapter 9 of your textbook, completing each exercise.  
 
 You will find two files in your ../htdoc/myPHPstuff directory named: Script9_1_header.html and style.css, which will save you some time typing as you start this chapter. 
