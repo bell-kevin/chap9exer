@@ -10,13 +10,13 @@ Submission: Please take and submit .png screenshots showing your working code ru
 
 ![p](https://github.com/bell-kevin/chap9exer/blob/main/chap9exer/config!!!!%20script%209.2.PNG)
 
+![p](https://github.com/bell-kevin/chap9exer/blob/main/folders.PNG)
+
 ![p](https://github.com/bell-kevin/chap9exer/blob/main/chap9exer/9.3.PNG)
 
 ![p](https://github.com/bell-kevin/chap9exer/blob/main/thankYou.PNG)
 
 ![p](https://github.com/bell-kevin/chap9exer/blob/main/chap9exer/error!.PNG)
-
-![p](https://github.com/bell-kevin/chap9exer/blob/main/folders.PNG)
 
 ![p](https://github.com/bell-kevin/chap9exer/blob/main/chap9exer/view_users.PNG)
 
