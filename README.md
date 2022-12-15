@@ -24,6 +24,8 @@ Submission: Please take and submit .png screenshots showing your working code ru
 
 ![p](https://github.com/bell-kevin/chap9exer/blob/main/chap9exer/users.PNG)
 
+![p](https://github.com/bell-kevin/chap9exer/blob/main/chap9exer/changePassword.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
